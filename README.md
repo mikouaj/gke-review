@@ -1,5 +1,8 @@
 # Google Kubernetes Cluster review tool
 
+**NOTE: project is continued in [GKE Policy Automation](https://github.com/google/gke-policy-automation)
+Github repository under Google organization.**
+
 This tool validates selected [GKE](https://www.openpolicyagent.org/docs/latest/policy-language/) cluster
 against set of [REGO policies](https://www.openpolicyagent.org/docs/latest/policy-language/).
 
